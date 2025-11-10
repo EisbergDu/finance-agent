@@ -1,0 +1,61 @@
+name: Scrape and Publish Latest Statement
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * 1'  # every Monday 8:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Fetch latest data
+      run: python scrape.py
+
+    - name: Commit and push if changed
+      run: |-
+        git config --global user.name "Automated"
+        git config --global user.email "actions@users.noreply.github.com"
+        git add -A
+        git commit -m "Latest data: $(date -u)" || echo "No changes to commit"
+        git push
+
+    - name: Install Git LFS
+      run: |-
+        sudo apt-get update
+        sudo apt-get install -y git-lfs
+        git lfs install
+
+    - name: Push data to Hugging Face
+      if: ${{ env.HF_TOKEN != '' }}
+      run: |-
+        git clone https://user:${HF_TOKEN}@huggingface.co/datasets/vtasca/fomc-statements-minutes hf_repo
+        cd hf_repo
+
+        git lfs track "communications.csv"
+        git add .gitattributes || true
+
+        cp ../communications.csv .
+        git add communications.csv
+        git commit -m "Latest data: $(date -u)" || echo 0
+
+        git push origin main
+      env:
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
