@@ -1,0 +1,361 @@
+{
+  "data": [
+    {
+      "news_url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/nvdia-stock-meta-cava-shopify-meli/",
+      "image_url": "https://cdn.snapi.dev/images/v1/2/h/z/data-internet6-2736234.jpg",
+      "title": "Nvidia Among 5 Top Stocks, But Fails To Join Meta Here",
+      "text": "As it gets set to join the Dow, Nvidia stock leads five stocks near buy points, including Cava, Shopify, Vertiv and MercadoLibre. The post Nvidia Among 5 Top Stocks, But Fails To Join Meta Here appeared first on Investor's Business Daily.",
+      "source_name": "Investors Business Daily",
+      "date": "Mon, 04 Nov 2024 13:38:05 -0500",
+      "topics": [
+        "paywall",
+        "StocksToWatch"
+      ],
+      "sentiment": "Negative",
+      "type": "Article",
+      "tickers": [
+        "META",
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://venturebeat.com/ai/nvidia-ai-blueprint-makes-it-easy-for-devs-in-any-industry-build-agents-to-analyze-video/",
+      "image_url": "https://cdn.snapi.dev/images/v1/b/5/q/nvdd1-2486478-2736150.jpg",
+      "title": "Nvidia AI Blueprint makes it easy for any devs to build automated agents that analyze video",
+      "text": "Nvidia announced that its Nvidia AI Blueprint will make it easy for developers in any industry to build AI agents to analyze video and image content.",
+      "source_name": "VentureBeat",
+      "date": "Mon, 04 Nov 2024 13:00:00 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.fastcompany.com/91222054/nvidia-stock-replaces-intel-dow-jones-date-reason-explained",
+      "image_url": "https://cdn.snapi.dev/images/v1/3/w/6/semi18-2735934.jpg",
+      "title": "Nvidia is replacing Intel on the Dow Jones Industrial Average: Here's why and what that means",
+      "text": "For the second time in 2024, the Dow Jones Industrial Average (INDEXDJX: .DJI) is getting a shakeup. Back in February, Amazon replaced Walgreens on the stock market index.",
+      "source_name": "Fast Company",
+      "date": "Mon, 04 Nov 2024 12:01:27 -0500",
+      "topics": [
+        "paylimitwall"
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "INTC",
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://seekingalpha.com/article/4732754-nvidia-king-of-ai-getting-pumped-up-for-more",
+      "image_url": "https://cdn.snapi.dev/images/v1/x/m/x/nvdd3-2485387-2735939.jpg",
+      "title": "Nvidia: King Of AI Getting Pumped Up For More",
+      "text": "Nvidia will soon replace Intel in the Dow Jones Industrial Average, ending INTC's 25-year run of underperformance in the index. NVDA's recent market outperformance suggests investors are getting pumped up for its upcoming earnings release later this month. Recent earnings releases from AMD and Intel show that the King of AI's market leadership remains structurally bullish.",
+      "source_name": "Seeking Alpha",
+      "date": "Mon, 04 Nov 2024 12:01:00 -0500",
+      "topics": [
+        "paylimitwall"
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://seekingalpha.com/article/4732434-investing-groups-digest-mag-7-in-the-market-spotlight",
+      "image_url": "https://cdn.snapi.dev/images/v1/g/e/gen19-2735940.jpg",
+      "title": "Investing Groups Digest: Mag 7 In The Market Spotlight",
+      "text": "Seeking Alpha's Investing Group leaders presented their earnings assessments from Mag 7 tech giants. Are investors missing hidden opportunities with BDCs, CEFs, mREITs, and preferreds? The case is made for breaking up Realty Income.",
+      "source_name": "Seeking Alpha",
+      "date": "Mon, 04 Nov 2024 12:00:00 -0500",
+      "topics": [
+        "paylimitwall"
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "APP",
+        "BA",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MRK",
+        "MSFT",
+        "NVDA",
+        "TSLA"
+      ]
+    },
+    {
+      "news_url": "https://www.youtube.com/watch?v=5DtIrqYwcho",
+      "image_url": "https://cdn.snapi.dev/images/v1/4/f/c/nvda27-2686041-2735928.jpg",
+      "title": "Semiconductor stocks poised to rebound after losing $360 billion in market capitalization",
+      "text": "CNBC's Seema Mody reports on the latest stock moves from big tech.",
+      "source_name": "CNBC Television",
+      "date": "Mon, 04 Nov 2024 11:52:32 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Video",
+      "tickers": [
+        "LSCC",
+        "NVDA",
+        "NXPI",
+        "SMCI",
+        "SMH"
+      ]
+    },
+    {
+      "news_url": "https://www.cnbc.com/2024/11/04/quantifying-how-much-nvidia-will-influence-the-dow-after-it-joins-the-storied-average.html",
+      "image_url": "https://cdn.snapi.dev/images/v1/9/c/o/nvdd2-2485388-2735920.jpg",
+      "title": "Quantifying how much Nvidia will influence the Dow after it joins the storied average",
+      "text": "Nvidia will join the price-weighted Dow on Friday.",
+      "source_name": "CNBC",
+      "date": "Mon, 04 Nov 2024 11:50:12 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.investopedia.com/nvidia-overtakes-apple-as-most-valuable-company-in-world-update-8731936",
+      "image_url": "https://cdn.snapi.dev/images/v1/a/k/f/computer-electronic37-2735729.jpg",
+      "title": "Nvidia Overtakes Apple as World's Most Valuable Company",
+      "text": "Nvidia (NVDA) shares rose Monday, propelling the AI chip leader into the top spot on the list of the world's most valuable companies.",
+      "source_name": "Investopedia",
+      "date": "Mon, 04 Nov 2024 10:56:13 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "AAPL",
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.marketwatch.com/story/heres-what-super-micros-struggles-may-mean-for-nvidia-and-dell-1290379e",
+      "image_url": "https://cdn.snapi.dev/images/v1/y/e/g/dell15-2676918-2735275.jpg",
+      "title": "Here's what Super Micro's struggles may mean for Nvidia and Dell",
+      "text": "Dell might not see immediate financial benefits, but an analyst thinks customers are paying attention to Super Micro's auditor exit, which could start helping Dell next year.",
+      "source_name": "Market Watch",
+      "date": "Mon, 04 Nov 2024 09:46:00 -0500",
+      "topics": [
+        "paylimitwall"
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "DELL",
+        "NVDA",
+        "SMCI"
+      ]
+    },
+    {
+      "news_url": "https://www.forbes.com/sites/dereksaul/2024/11/04/ai-titan-nvidia-overtakes-apple-as-worlds-most-valuable-company/",
+      "image_url": "https://cdn.snapi.dev/images/v1/h/l/t/ai-titan-nvidia-overtakes-appl-2735286.jpg",
+      "title": "AI Titan Nvidia Overtakes Apple As World's Most Valuable Company",
+      "text": "Artificial intelligence kingpin Nvidia became the largest company in the world Monday, surpassing iPhone maker Apple, marking another feather in the cap for the Silicon Valley titan Nvidia.",
+      "source_name": "Forbes",
+      "date": "Mon, 04 Nov 2024 09:43:06 -0500",
+      "topics": [
+        "paylimitwall"
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.proactiveinvestors.com/companies/news/1059809?SNAPI",
+      "image_url": "https://cdn.snapi.dev/images/v1/z/i/j/semi27-2735191.jpg",
+      "title": "Nvidia replaces Intel in Dow Jones index this week",
+      "text": "NVIDIA Corp (NASDAQ:NVDA, ETR:NVD) will replace Intel Corp (NASDAQ:INTC, ETR:INL) in the Dow Jones Industrial Average this week in the latest shake-up of the Wall Street index.  Intel has been one of the DJIA's 30 constituents since 1999, when it and Microsoft became the first companies traded on the Nasdaq exchange to be included as part of the 128-year-old benchmark.",
+      "source_name": "Proactive Investors",
+      "date": "Mon, 04 Nov 2024 09:17:03 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "INTC",
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.fxempire.com/news/article/nvidia-joins-dow-replacing-intel-as-ai-boom-highlights-techs-growing-market-influence-1473705",
+      "image_url": "https://cdn.snapi.dev/images/v1/n/v/y/semi24-2735098.jpg",
+      "title": "Nvidia Joins Dow, Replacing Intel as AI Boom Highlights Tech's Growing Market Influence",
+      "text": "Nvidia joins the Dow, replacing Intel in a major AI-driven shift as its market cap soars, reflecting tech's dominance in the stock market.",
+      "source_name": "FXEmpire",
+      "date": "Mon, 04 Nov 2024 08:30:15 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "INTC",
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.businesswire.com/news/home/20241104890359/en/Sharon-AI-Expands-GPU-Fleet-With-NVIDIA-H100%E2%80%99s-Deployed-At-NEXTDC%E2%80%99s-Tier-IV-Co-location-Facilities/",
+      "image_url": "https://cdn.snapi.dev/images/v1/r/8/5/press6-2735581.jpg",
+      "title": "Sharon AI Expands GPU Fleet With NVIDIA H100's Deployed At NEXTDC's Tier IV Co-location Facilities",
+      "text": "NEW YORK--(BUSINESS WIRE)--Sharon AI Expands GPU Fleet With NVIDIA H100's Deployed At NEXTDC's Tier IV Co-location Facilities.",
+      "source_name": "Business Wire",
+      "date": "Mon, 04 Nov 2024 08:00:00 -0500",
+      "topics": [
+        "PressRelease"
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.globenewswire.com/news-release/2024/11/04/2974049/0/en/CMG-Targets-Faster-Simulation-Solutions-with-NVIDIA-Accelerated-Computing.html",
+      "image_url": "https://cdn.snapi.dev/images/v1/j/0/r/press18-2734917.jpg",
+      "title": "CMG Targets Faster Simulation Solutions with NVIDIA Accelerated Computing",
+      "text": "CALGARY, Alberta, Nov. 04, 2024 (GLOBE NEWSWIRE) -- Computer Modelling Group Ltd. (“CMG” or the “Company”) (TSX: CMG) today announced it is collaborating with NVIDIA to further develop and optimize CMG subsurface simulation solutions for increased speed, performance, and energy efficiency.",
+      "source_name": "GlobeNewsWire",
+      "date": "Mon, 04 Nov 2024 08:00:00 -0500",
+      "topics": [
+        "PressRelease"
+      ],
+      "sentiment": "Neutral",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.fool.com/investing/2024/11/04/2-supercharged-stocks-buy-november-1-avoid/",
+      "image_url": "https://cdn.snapi.dev/images/v1/y/r/n/semi22-2734858.jpg",
+      "title": "2 Supercharged Stocks to Buy in November, and 1 to Avoid",
+      "text": "These AI stocks could hit new highs in 2025, but a popular Bitcoin alternative could flame out.",
+      "source_name": "The Motley Fool",
+      "date": "Mon, 04 Nov 2024 07:45:00 -0500",
+      "topics": [
+        "StocksToWatch"
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "AVGO",
+        "MSTR",
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://finbold.com/could-nvidias-stock-benefit-from-shifting-smci-orders/?utm_source=snapi",
+      "image_url": "https://cdn.snapi.dev/images/v1/f/h/e/nvda9-2688351-2734816.jpg",
+      "title": "Could Nvidia's stock benefit from shifting SMCI orders?",
+      "text": "Semiconductor companies have seen stellar performance over the last two years, owing to the revolutionary potential of widespread AI adoption.",
+      "source_name": "Finbold",
+      "date": "Mon, 04 Nov 2024 07:33:51 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.reuters.com/markets/global-market-data/global-markets-marketcap-2024-11-04/",
+      "image_url": "https://cdn.snapi.dev/images/v1/x/u/v/semi20-2734697.jpg",
+      "title": "Market value of Nvidia and TSMC surges in October on strong AI chip demand",
+      "text": "Nvidia led a surge in market value among global firms in October, buoyed by unrelenting demand for its new supercomputing artificial intelligence chips as more companies integrate AI into their daily operations.",
+      "source_name": "Reuters",
+      "date": "Mon, 04 Nov 2024 06:57:46 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "NVDA",
+        "TSM"
+      ]
+    },
+    {
+      "news_url": "https://www.cnbc.com/2024/11/04/sk-hynix-shares-rally-after-nvidias-huang-asks-firm-to-speed-up-chip.html",
+      "image_url": "https://cdn.snapi.dev/images/v1/4/o/n/nvda18-2686818-2734561.jpg",
+      "title": "SK Hynix rallies 6.5% after Nvidia boss Jensen Huang asks firm to expedite next-generation chip",
+      "text": "Chey Tae-won, chair of SK Group, said Nvidia CEO Jensen Huang asked him if SK Hynix could move the supply of high-bandwith memory (HBM) chips called HBM4 forward by six months. SK Hynix also announced a new 16-layer HBM product.",
+      "source_name": "CNBC",
+      "date": "Mon, 04 Nov 2024 06:08:43 -0500",
+      "topics": [
+        "CEO"
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.reuters.com/legal/facebook-nvidia-ask-us-supreme-court-spare-them-securities-fraud-suits-2024-11-04/",
+      "image_url": "https://cdn.snapi.dev/images/v1/k/9/q/data-internet20-2734557.jpg",
+      "title": "Facebook, Nvidia ask US Supreme Court to spare them from securities fraud suits",
+      "text": "The U.S. Supreme Court is set to consider bids by two tech giants - Meta's Facebook and Nvidia - to fend off federal securities fraud lawsuits in separate cases that could make it harder for private litigants to hold companies to account.",
+      "source_name": "Reuters",
+      "date": "Mon, 04 Nov 2024 06:03:18 -0500",
+      "topics": [],
+      "sentiment": "Negative",
+      "type": "Article",
+      "tickers": [
+        "META",
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.barrons.com/articles/nvidia-stock-price-intel-dow-ac6e31e5",
+      "image_url": "https://cdn.snapi.dev/images/v1/y/x/p/semi18-2734487.jpg",
+      "title": "Nvidia Stock Gains as Replaces Intel in the Dow. Why That Matters.",
+      "text": "The company will join the blue-chip index this week, further cementing its position as the leading U.S. chip stock.",
+      "source_name": "Barrons",
+      "date": "Mon, 04 Nov 2024 05:28:00 -0500",
+      "topics": [
+        "paywall"
+      ],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "INTC",
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.fool.com/investing/2024/11/04/nvidia-to-join-dow-average-should-you-buy/",
+      "image_url": "https://cdn.snapi.dev/images/v1/e/w/i/nvda9-2688351-2734459.jpg",
+      "title": "Nvidia Is Joining the Dow Jones Industrial Average This Week. Time to Buy?",
+      "text": "Nvidia is well positioned to benefit as the AI boom continues",
+      "source_name": "The Motley Fool",
+      "date": "Mon, 04 Nov 2024 04:30:00 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "news_url": "https://www.fool.com/investing/2024/11/04/new-stock-split-ai-stock-in-dow-jones-soar-925-buy/",
+      "image_url": "https://cdn.snapi.dev/images/v1/u/c/p/nvda22-2686301-2734438.jpg",
+      "title": "Meet the Newest Stock-Split AI Stock in the Dow Jones. It Soared 925% in 2 Years, and Wall Street Says It's Still a Buy",
+      "text": "Nvidia's position at the vanguard of artificial intelligence innovation has led to tremendous share price appreciation.",
+      "source_name": "The Motley Fool",
+      "date": "Mon, 04 Nov 2024 04:00:00 -0500",
+      "topics": [],
+      "sentiment": "Positive",
+      "type": "Article",
+      "tickers": [
+        "NVDA"
+      ]
+    }
+  ],
+  "total_pages": 2,
+  "total_items": 122
+}
