@@ -16,7 +16,7 @@ def build_url(
     tickers="NVDA",
     items=50,
     page=1,
-    date_range="11042024-11102024",  # 2024 大选周（ET）：11/04 ~ 11/10
+    date_range="01012024-10312025",  # 2024 大选周（ET）：11/04 ~ 11/10
     time_range="000000-235959",       # 全天（ET）
     search=None,
     source=None

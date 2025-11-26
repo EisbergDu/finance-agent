@@ -115,7 +115,7 @@ def fetch_user_tweets(user_id, user_name, max_pages=20):
     return all_tweets
 
 
-def save_tweets(user_name, tweets, save_dir=r'I:\finance-agent\X\tweets_json'):
+def save_tweets(user_name, tweets, save_dir=r'I:\\finance-agent\\X\\tweets_json'):
     """保存推文到文件"""
     try:
         os.makedirs(save_dir, exist_ok=True)
