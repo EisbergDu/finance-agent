@@ -1,0 +1,239 @@
+2025-12-06 20:43:40,663 [INFO] 读取 a_kol.xlsx 文件...
+2025-12-06 20:43:41,123 [INFO] 共读取 199 个用户
+2025-12-06 20:43:41,124 [INFO] 
+进度: 1/199  (@TheEconomist)
+2025-12-06 20:43:41,125 [INFO] ============================================================
+2025-12-06 20:43:41,126 [INFO] 开始处理用户: @TheEconomist
+2025-12-06 20:43:41,126 [INFO] ============================================================
+2025-12-06 20:43:42,928 [INFO] ✓ 获取用户 @TheEconomist 的 rest_id: 5988062
+2025-12-06 20:43:42,930 [INFO] 开始获取用户 @TheEconomist (ID: 5988062) 的推文，最多 200 页
+2025-12-06 20:43:45,141 [INFO] @TheEconomist 第 1 页: 获取 20 条
+2025-12-06 20:43:48,449 [INFO] @TheEconomist 第 2 页: 获取 20 条
+2025-12-06 20:44:10,645 [INFO] 读取 a_kol.xlsx 文件...
+2025-12-06 20:44:10,689 [INFO] 共读取 199 个用户
+2025-12-06 20:44:10,689 [INFO] 
+进度: 1/199  (@TheEconomist)
+2025-12-06 20:44:10,690 [INFO] ============================================================
+2025-12-06 20:44:10,691 [INFO] 开始处理用户: @TheEconomist
+2025-12-06 20:44:10,692 [INFO] ============================================================
+2025-12-06 20:44:12,907 [INFO] ✓ 获取用户 @TheEconomist 的 rest_id: 5988062
+2025-12-06 20:44:12,909 [INFO] 开始获取用户 @TheEconomist (ID: 5988062) 的推文，最多 50000 页
+2025-12-06 20:44:14,905 [INFO] @TheEconomist 第 1 页: 获取 20 条
+2025-12-06 20:44:17,885 [INFO] @TheEconomist 第 2 页: 获取 20 条
+2025-12-06 20:44:21,611 [INFO] @TheEconomist 第 3 页: 获取 20 条
+2025-12-06 20:44:24,408 [INFO] @TheEconomist 第 4 页: 获取 20 条
+2025-12-06 20:44:27,107 [INFO] @TheEconomist 第 5 页: 获取 20 条
+2025-12-06 20:44:29,847 [INFO] @TheEconomist 第 6 页: 获取 20 条
+2025-12-06 20:44:33,739 [INFO] @TheEconomist 第 7 页: 获取 20 条
+2025-12-06 20:44:36,212 [INFO] @TheEconomist 第 8 页: 获取 20 条
+2025-12-06 20:44:39,997 [INFO] @TheEconomist 第 9 页: 获取 20 条
+2025-12-06 20:44:42,817 [INFO] @TheEconomist 第 10 页: 获取 20 条
+2025-12-06 20:44:46,254 [INFO] @TheEconomist 第 11 页: 获取 20 条
+2025-12-06 20:44:48,859 [INFO] @TheEconomist 第 12 页: 获取 19 条
+2025-12-06 20:44:53,261 [INFO] @TheEconomist 第 13 页: 获取 20 条
+2025-12-06 20:44:55,976 [INFO] @TheEconomist 第 14 页: 获取 20 条
+2025-12-06 20:44:58,921 [INFO] @TheEconomist 第 15 页: 获取 20 条
+2025-12-06 20:45:00,648 [INFO] @TheEconomist 第 16 页: 获取 0 条
+2025-12-06 20:45:00,649 [INFO] @TheEconomist 没有更多推文了
+2025-12-06 20:45:00,649 [INFO] @TheEconomist 统计完成：最早时间=2025-12-03 21:04:48, 最晚时间=2025-12-06 12:40:07
+2025-12-06 20:45:00,650 [INFO] ============================================================
+2025-12-06 20:45:00,650 [INFO] @TheEconomist 处理完成：最早=2025-12-03 21:04:48, 最晚=2025-12-06 12:40:07, 覆盖到 2024-01=False
+2025-12-06 20:45:00,651 [INFO] ============================================================
+
+2025-12-06 20:45:01,653 [INFO] 
+进度: 2/199  (@Reuters)
+2025-12-06 20:45:01,653 [INFO] ============================================================
+2025-12-06 20:45:01,654 [INFO] 开始处理用户: @Reuters
+2025-12-06 20:45:01,654 [INFO] ============================================================
+2025-12-06 20:45:03,311 [INFO] ✓ 获取用户 @Reuters 的 rest_id: 1652541
+2025-12-06 20:45:03,315 [INFO] 开始获取用户 @Reuters (ID: 1652541) 的推文，最多 50000 页
+2025-12-06 20:45:08,056 [INFO] @Reuters 第 1 页: 获取 20 条
+2025-12-06 20:45:10,765 [INFO] @Reuters 第 2 页: 获取 20 条
+2025-12-06 20:45:13,908 [INFO] @Reuters 第 3 页: 获取 20 条
+2025-12-06 20:45:16,841 [INFO] @Reuters 第 4 页: 获取 20 条
+2025-12-06 20:45:20,600 [INFO] @Reuters 第 5 页: 获取 20 条
+2025-12-06 20:45:23,262 [INFO] @Reuters 第 6 页: 获取 20 条
+2025-12-06 20:45:26,361 [INFO] @Reuters 第 7 页: 获取 20 条
+2025-12-06 20:45:29,212 [INFO] @Reuters 第 8 页: 获取 20 条
+2025-12-06 20:45:32,193 [INFO] @Reuters 第 9 页: 获取 20 条
+2025-12-06 20:45:35,044 [INFO] @Reuters 第 10 页: 获取 20 条
+2025-12-06 20:45:38,006 [INFO] @Reuters 第 11 页: 获取 21 条
+2025-12-06 20:45:40,964 [INFO] @Reuters 第 12 页: 获取 20 条
+2025-12-06 20:45:45,093 [INFO] @Reuters 第 13 页: 获取 20 条
+2025-12-06 20:45:48,918 [INFO] @Reuters 第 14 页: 获取 20 条
+2025-12-06 20:45:51,920 [INFO] @Reuters 第 15 页: 获取 20 条
+2025-12-06 20:45:53,680 [INFO] @Reuters 第 16 页: 获取 0 条
+2025-12-06 20:45:53,680 [INFO] @Reuters 没有更多推文了
+2025-12-06 20:45:53,681 [INFO] @Reuters 统计完成：最早时间=2025-12-05 12:50:07, 最晚时间=2025-12-06 12:40:11
+2025-12-06 20:45:53,681 [INFO] ============================================================
+2025-12-06 20:45:53,682 [INFO] @Reuters 处理完成：最早=2025-12-05 12:50:07, 最晚=2025-12-06 12:40:11, 覆盖到 2024-01=False
+2025-12-06 20:45:53,683 [INFO] ============================================================
+
+2025-12-06 20:45:54,685 [INFO] 
+进度: 3/199  (@WSJ)
+2025-12-06 20:45:54,685 [INFO] ============================================================
+2025-12-06 20:45:54,686 [INFO] 开始处理用户: @WSJ
+2025-12-06 20:45:54,687 [INFO] ============================================================
+2025-12-06 20:45:57,029 [INFO] ✓ 获取用户 @WSJ 的 rest_id: 3108351
+2025-12-06 20:45:57,032 [INFO] 开始获取用户 @WSJ (ID: 3108351) 的推文，最多 50000 页
+2025-12-06 20:47:06,166 [INFO] 读取 a_kol.xlsx 文件...
+2025-12-06 20:47:06,210 [INFO] 共读取 199 个用户
+2025-12-06 20:47:06,211 [INFO] 
+进度: 1/199  (@TheEconomist)
+2025-12-06 20:47:06,212 [INFO] ============================================================
+2025-12-06 20:47:06,212 [INFO] 开始处理用户: @TheEconomist
+2025-12-06 20:47:06,213 [INFO] ============================================================
+2025-12-06 20:47:07,589 [INFO] ✓ 获取用户 @TheEconomist 的 rest_id: 5988062
+2025-12-06 20:47:07,592 [INFO] 开始获取用户 @TheEconomist (ID: 5988062) 的推文，最多 200 页
+2025-12-06 20:47:07,592 [INFO] @TheEconomist 准备获取第 1 页 (cursor=None)
+2025-12-06 20:47:09,878 [INFO] @TheEconomist 第 1 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:09,879 [INFO] @TheEconomist 第 1 页: 有效 tweets 数量 20
+2025-12-06 20:47:10,282 [INFO] @TheEconomist 准备获取第 2 页 (cursor=DAAHCgABG7fJq1o__-oLAAIAAAATMTk5NzIxNDQ3NzAxMjMzNzA0OAgAAwAAAAIAAA)
+2025-12-06 20:47:21,111 [INFO] 读取 a_kol.xlsx 文件...
+2025-12-06 20:47:21,154 [INFO] 共读取 199 个用户
+2025-12-06 20:47:21,155 [INFO] 
+进度: 1/199  (@TheEconomist)
+2025-12-06 20:47:21,155 [INFO] ============================================================
+2025-12-06 20:47:21,156 [INFO] 开始处理用户: @TheEconomist
+2025-12-06 20:47:21,157 [INFO] ============================================================
+2025-12-06 20:47:22,550 [INFO] ✓ 获取用户 @TheEconomist 的 rest_id: 5988062
+2025-12-06 20:47:22,553 [INFO] 开始获取用户 @TheEconomist (ID: 5988062) 的推文，最多 10000 页
+2025-12-06 20:47:22,553 [INFO] @TheEconomist 准备获取第 1 页 (cursor=None)
+2025-12-06 20:47:26,170 [INFO] 读取 a_kol.xlsx 文件...
+2025-12-06 20:47:26,215 [INFO] 共读取 199 个用户
+2025-12-06 20:47:26,216 [INFO] 
+进度: 1/199  (@TheEconomist)
+2025-12-06 20:47:26,216 [INFO] ============================================================
+2025-12-06 20:47:26,217 [INFO] 开始处理用户: @TheEconomist
+2025-12-06 20:47:26,218 [INFO] ============================================================
+2025-12-06 20:47:27,722 [INFO] ✓ 获取用户 @TheEconomist 的 rest_id: 5988062
+2025-12-06 20:47:27,726 [INFO] 开始获取用户 @TheEconomist (ID: 5988062) 的推文，最多 1000 页
+2025-12-06 20:47:27,726 [INFO] @TheEconomist 准备获取第 1 页 (cursor=None)
+2025-12-06 20:47:30,018 [INFO] @TheEconomist 第 1 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:30,019 [INFO] @TheEconomist 第 1 页: 有效 tweets 数量 20
+2025-12-06 20:47:30,421 [INFO] @TheEconomist 准备获取第 2 页 (cursor=DAAHCgABG7fJvvP__-oLAAIAAAATMTk5NzIxNDQ3NzAxMjMzNzA0OAgAAwAAAAIAAA)
+2025-12-06 20:47:32,803 [INFO] @TheEconomist 第 2 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:32,804 [INFO] @TheEconomist 第 2 页: 有效 tweets 数量 20
+2025-12-06 20:47:33,205 [INFO] @TheEconomist 准备获取第 3 页 (cursor=DAAHCgABG7fJvvP__9ULAAIAAAATMTk5NzExNjM0MTg3OTIyMjI4OAgAAwAAAAIAAA)
+2025-12-06 20:47:35,442 [INFO] @TheEconomist 第 3 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:35,442 [INFO] @TheEconomist 第 3 页: 有效 tweets 数量 20
+2025-12-06 20:47:35,844 [INFO] @TheEconomist 准备获取第 4 页 (cursor=DAAHCgABG7fJvvP__8ALAAIAAAATMTk5NzAzMzM4MTEyNTYwMzY5MwgAAwAAAAIAAA)
+2025-12-06 20:47:38,158 [INFO] @TheEconomist 第 4 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:38,159 [INFO] @TheEconomist 第 4 页: 有效 tweets 数量 20
+2025-12-06 20:47:38,560 [INFO] @TheEconomist 准备获取第 5 页 (cursor=DAAHCgABG7fJvvP__6sLAAIAAAATMTk5Njk5Mjk5NzQ4NTk1NzE4MQgAAwAAAAIAAA)
+2025-12-06 20:47:40,867 [INFO] @TheEconomist 第 5 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:40,868 [INFO] @TheEconomist 第 5 页: 有效 tweets 数量 20
+2025-12-06 20:47:41,269 [INFO] @TheEconomist 准备获取第 6 页 (cursor=DAAHCgABG7fJvvP__5YLAAIAAAATMTk5Njk0NjQ0MTQ3NDkxMjczOQgAAwAAAAIAAA)
+2025-12-06 20:47:43,624 [INFO] @TheEconomist 第 6 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:43,625 [INFO] @TheEconomist 第 6 页: 有效 tweets 数量 20
+2025-12-06 20:47:44,027 [INFO] @TheEconomist 准备获取第 7 页 (cursor=DAAHCgABG7fJvvP__4ELAAIAAAATMTk5Njg3NzIyOTk4MTEzOTAzOAgAAwAAAAIAAA)
+2025-12-06 20:47:46,043 [INFO] @TheEconomist 第 7 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:46,044 [INFO] @TheEconomist 第 7 页: 有效 tweets 数量 20
+2025-12-06 20:47:46,445 [INFO] @TheEconomist 准备获取第 8 页 (cursor=DAAHCgABG7fJvvP__2wLAAIAAAATMTk5Njc3NjY3NjkwNzI3NDYxNQgAAwAAAAIAAA)
+2025-12-06 20:47:48,597 [INFO] @TheEconomist 第 8 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:48,598 [INFO] @TheEconomist 第 8 页: 有效 tweets 数量 20
+2025-12-06 20:47:48,999 [INFO] @TheEconomist 准备获取第 9 页 (cursor=DAAHCgABG7fJvvP__1cLAAIAAAATMTk5NjY4ODQ2ODk5NTM5NTgyMQgAAwAAAAIAAA)
+2025-12-06 20:47:51,417 [INFO] @TheEconomist 第 9 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:51,418 [INFO] @TheEconomist 第 9 页: 有效 tweets 数量 20
+2025-12-06 20:47:51,820 [INFO] @TheEconomist 准备获取第 10 页 (cursor=DAAHCgABG7fJvvP__0ILAAIAAAATMTk5NjY1NDQ5ODA1NjQyNTg0NAgAAwAAAAIAAA)
+2025-12-06 20:47:54,090 [INFO] @TheEconomist 第 10 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:47:54,091 [INFO] @TheEconomist 第 10 页: 有效 tweets 数量 20
+2025-12-06 20:47:54,493 [INFO] @TheEconomist 准备获取第 11 页 (cursor=DAAHCgABG7fJvvP__y0LAAIAAAATMTk5NjYzMDU5MTQ3OTg4NTg2MQgAAwAAAAIAAA)
+2025-12-06 20:47:55,798 [INFO] @TheEconomist 第 11 页 第 1 次请求成功，拿到 0 条 tweets
+2025-12-06 20:47:55,799 [INFO] @TheEconomist 第 11 页没有 next_cursor，认为没有更多推文
+2025-12-06 20:47:55,800 [INFO] @TheEconomist 第 11 页: 有效 tweets 数量 0
+2025-12-06 20:47:55,800 [INFO] @TheEconomist 没有更多推文了，提前结束 (共 11 页)
+2025-12-06 20:47:55,800 [INFO] @TheEconomist 抓取结束：最早时间=2025-12-04 17:20:03, 最晚时间=2025-12-06 12:40:07, 失败原因=None
+2025-12-06 20:47:55,801 [INFO] @TheEconomist 完成：最早=2025-12-04 17:20:03, 最晚=2025-12-06 12:40:07, 覆盖到 2024-01=False, remark=最早时间晚于 2024-01 ❌
+2025-12-06 20:47:55,801 [INFO] ============================================================
+
+2025-12-06 20:47:56,803 [INFO] 
+进度: 2/199  (@Reuters)
+2025-12-06 20:47:56,804 [INFO] ============================================================
+2025-12-06 20:47:56,804 [INFO] 开始处理用户: @Reuters
+2025-12-06 20:47:56,805 [INFO] ============================================================
+2025-12-06 20:47:58,115 [INFO] ✓ 获取用户 @Reuters 的 rest_id: 1652541
+2025-12-06 20:47:58,118 [INFO] 开始获取用户 @Reuters (ID: 1652541) 的推文，最多 1000 页
+2025-12-06 20:47:58,118 [INFO] @Reuters 准备获取第 1 页 (cursor=None)
+2025-12-06 20:48:04,412 [INFO] @Reuters 第 1 页 第 1 次请求成功，拿到 0 条 tweets
+2025-12-06 20:48:04,413 [INFO] @Reuters 第 1 页没有 next_cursor，认为没有更多推文
+2025-12-06 20:48:04,413 [INFO] @Reuters 第 1 页: 有效 tweets 数量 0
+2025-12-06 20:48:04,414 [INFO] @Reuters 没有更多推文了，提前结束 (共 1 页)
+2025-12-06 20:48:04,414 [INFO] @Reuters 抓取结束：最早时间=None, 最晚时间=None, 失败原因=None
+2025-12-06 20:48:04,415 [INFO] @Reuters 完成：最早=None, 最晚=None, 覆盖到 2024-01=False, remark=未获取到任何有效 created_at（可能确实没有推文）
+2025-12-06 20:48:04,415 [INFO] ============================================================
+
+2025-12-06 20:48:05,416 [INFO] 
+进度: 3/199  (@WSJ)
+2025-12-06 20:48:05,416 [INFO] ============================================================
+2025-12-06 20:48:05,417 [INFO] 开始处理用户: @WSJ
+2025-12-06 20:48:05,417 [INFO] ============================================================
+2025-12-06 20:48:07,801 [INFO] ✓ 获取用户 @WSJ 的 rest_id: 3108351
+2025-12-06 20:48:07,803 [INFO] 开始获取用户 @WSJ (ID: 3108351) 的推文，最多 1000 页
+2025-12-06 20:48:07,804 [INFO] @WSJ 准备获取第 1 页 (cursor=None)
+2025-12-06 20:48:10,077 [INFO] @WSJ 第 1 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:10,078 [INFO] @WSJ 第 1 页: 有效 tweets 数量 20
+2025-12-06 20:48:10,480 [INFO] @WSJ 准备获取第 2 页 (cursor=DAAHCgABG7fJ5gt__-sLAAIAAAATMTk5NzIxNzUwMDE4Mjg1MTk0OAgAAwAAAAIAAA)
+2025-12-06 20:48:14,265 [INFO] @WSJ 第 2 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:14,266 [INFO] @WSJ 第 2 页: 有效 tweets 数量 20
+2025-12-06 20:48:14,667 [INFO] @WSJ 准备获取第 3 页 (cursor=DAAHCgABG7fJ5gt__9cLAAIAAAATMTk5NzEzMzYzOTA0NjM0NTA1NwgAAwAAAAIAAA)
+2025-12-06 20:48:16,863 [INFO] @WSJ 第 3 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:16,863 [INFO] @WSJ 第 3 页: 有效 tweets 数量 20
+2025-12-06 20:48:17,266 [INFO] @WSJ 准备获取第 4 页 (cursor=DAAHCgABG7fJ5gt__8MLAAIAAAATMTk5NzA3NjcwNzU2MDMyMTA1OQgAAwAAAAIAAA)
+2025-12-06 20:48:21,065 [INFO] @WSJ 第 4 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:21,065 [INFO] @WSJ 第 4 页: 有效 tweets 数量 20
+2025-12-06 20:48:21,467 [INFO] @WSJ 准备获取第 5 页 (cursor=DAAHCgABG7fJ5gt__68LAAIAAAATMTk5NzAxODkxMzE4NDM4MzE2MAgAAwAAAAIAAA)
+2025-12-06 20:48:23,578 [INFO] @WSJ 第 5 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:23,578 [INFO] @WSJ 第 5 页: 有效 tweets 数量 20
+2025-12-06 20:48:23,980 [INFO] @WSJ 准备获取第 6 页 (cursor=DAAHCgABG7fJ5gt__50LAAIAAAATMTk5Njk2NjEyMjMyMzYzMjUzMwgAAwAAAAIAAA)
+2025-12-06 20:48:26,076 [INFO] @WSJ 第 6 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:26,077 [INFO] @WSJ 第 6 页: 有效 tweets 数量 20
+2025-12-06 20:48:26,479 [INFO] @WSJ 准备获取第 7 页 (cursor=DAAHCgABG7fJ5gt__4sLAAIAAAATMTk5Njg5MTY0MTg4MjI5MjU1NAgAAwAAAAIAAA)
+2025-12-06 20:48:31,670 [INFO] @WSJ 第 7 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:31,670 [INFO] @WSJ 第 7 页: 有效 tweets 数量 20
+2025-12-06 20:48:32,071 [INFO] @WSJ 准备获取第 8 页 (cursor=DAAHCgABG7fJ5gt__3cLAAIAAAATMTk5NjgwNjc2NTU5NDI0MzIzNggAAwAAAAIAAA)
+2025-12-06 20:48:35,423 [INFO] @WSJ 第 8 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:35,424 [INFO] @WSJ 第 8 页: 有效 tweets 数量 20
+2025-12-06 20:48:35,825 [INFO] @WSJ 准备获取第 9 页 (cursor=DAAHCgABG7fJ5gt__2MLAAIAAAATMTk5Njc0Njc2NTQ2MzA5MzU2NggAAwAAAAIAAA)
+2025-12-06 20:48:37,192 [INFO] @WSJ 第 9 页 第 1 次请求成功，拿到 0 条 tweets
+2025-12-06 20:48:37,193 [INFO] @WSJ 第 9 页没有 next_cursor，认为没有更多推文
+2025-12-06 20:48:37,193 [INFO] @WSJ 第 9 页: 有效 tweets 数量 0
+2025-12-06 20:48:37,194 [INFO] @WSJ 没有更多推文了，提前结束 (共 9 页)
+2025-12-06 20:48:37,194 [INFO] @WSJ 抓取结束：最早时间=2025-12-05 01:01:41, 最晚时间=2025-12-06 12:43:31, 失败原因=None
+2025-12-06 20:48:37,196 [INFO] @WSJ 完成：最早=2025-12-05 01:01:41, 最晚=2025-12-06 12:43:31, 覆盖到 2024-01=False, remark=最早时间晚于 2024-01 ❌
+2025-12-06 20:48:37,196 [INFO] ============================================================
+
+2025-12-06 20:48:38,198 [INFO] 
+进度: 4/199  (@Forbes)
+2025-12-06 20:48:38,198 [INFO] ============================================================
+2025-12-06 20:48:38,199 [INFO] 开始处理用户: @Forbes
+2025-12-06 20:48:38,200 [INFO] ============================================================
+2025-12-06 20:48:39,939 [INFO] ✓ 获取用户 @Forbes 的 rest_id: 91478624
+2025-12-06 20:48:39,942 [INFO] 开始获取用户 @Forbes (ID: 91478624) 的推文，最多 1000 页
+2025-12-06 20:48:39,942 [INFO] @Forbes 准备获取第 1 页 (cursor=None)
+2025-12-06 20:48:43,290 [INFO] @Forbes 第 1 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:43,291 [INFO] @Forbes 第 1 页: 有效 tweets 数量 20
+2025-12-06 20:48:43,692 [INFO] @Forbes 准备获取第 2 页 (cursor=DAAHCgABG7fKBaw__-oLAAIAAAATMTk5NzE1NDA1MzI0MDExNTQ3NQgAAwAAAAIAAA)
+2025-12-06 20:48:46,112 [INFO] @Forbes 第 2 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:46,113 [INFO] @Forbes 第 2 页: 有效 tweets 数量 20
+2025-12-06 20:48:46,515 [INFO] @Forbes 准备获取第 3 页 (cursor=DAAHCgABG7fKBaw__9ULAAIAAAATMTk5NzAxMzEwOTIzMjYxOTk3MggAAwAAAAIAAA)
+2025-12-06 20:48:49,994 [INFO] @Forbes 第 3 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:49,995 [INFO] @Forbes 第 3 页: 有效 tweets 数量 20
+2025-12-06 20:48:50,397 [INFO] @Forbes 准备获取第 4 页 (cursor=DAAHCgABG7fKBaw__8ALAAIAAAATMTk5Njk3MTU5NjU0ODg1Nzg5OAgAAwAAAAIAAA)
+2025-12-06 20:48:52,522 [INFO] @Forbes 第 4 页 第 1 次请求成功，拿到 19 条 tweets
+2025-12-06 20:48:52,523 [INFO] @Forbes 第 4 页: 有效 tweets 数量 19
+2025-12-06 20:48:52,925 [INFO] @Forbes 准备获取第 5 页 (cursor=DAAHCgABG7fKBaw__6wLAAIAAAATMTk5Njk0NTYwNzIwMjg0NDg3NAgAAwAAAAIAAA)
+2025-12-06 20:48:57,414 [INFO] @Forbes 第 5 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:48:57,415 [INFO] @Forbes 第 5 页: 有效 tweets 数量 20
+2025-12-06 20:48:57,817 [INFO] @Forbes 准备获取第 6 页 (cursor=DAAHCgABG7fKBaw__5cLAAIAAAATMTk5Njg4MjQwOTQ3Mjg0ODI4NQgAAwAAAAIAAA)
+2025-12-06 20:49:00,135 [INFO] @Forbes 第 6 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:49:00,135 [INFO] @Forbes 第 6 页: 有效 tweets 数量 20
+2025-12-06 20:49:00,537 [INFO] @Forbes 准备获取第 7 页 (cursor=DAAHCgABG7fKBaw__4ILAAIAAAATMTk5Njc0NjM0NDY1MzAxNzE0OAgAAwAAAAIAAA)
+2025-12-06 20:49:02,837 [INFO] @Forbes 第 7 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:49:02,838 [INFO] @Forbes 第 7 页: 有效 tweets 数量 20
+2025-12-06 20:49:03,240 [INFO] @Forbes 准备获取第 8 页 (cursor=DAAHCgABG7fKBaw__20LAAIAAAATMTk5NjY5MDIxMTQzOTMxMzIzMggAAwAAAAIAAA)
+2025-12-06 20:49:06,564 [INFO] @Forbes 第 8 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:49:06,565 [INFO] @Forbes 第 8 页: 有效 tweets 数量 20
+2025-12-06 20:49:06,967 [INFO] @Forbes 准备获取第 9 页 (cursor=DAAHCgABG7fKBaw__1gLAAIAAAATMTk5NjY0ODEzNTQ2OTU1MTkzOQgAAwAAAAIAAA)
+2025-12-06 20:49:09,247 [INFO] @Forbes 第 9 页 第 1 次请求成功，拿到 20 条 tweets
+2025-12-06 20:49:09,248 [INFO] @Forbes 第 9 页: 有效 tweets 数量 20

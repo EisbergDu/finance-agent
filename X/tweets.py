@@ -243,7 +243,7 @@ if __name__ == "__main__":
     logger.info(f"共读取 {len(a_kol_list)} 个用户")
     
     # 选择处理方式
-    test_users = a_kol_list[:10]  # 测试前10个用户
+    test_users = a_kol_list[:3]  # 测试前10个用户
     
     # 方式1: 顺序处理（慢但稳定）
     # batch_fetch_tweets_sequential(test_users, max_pages=20)
@@ -251,6 +251,6 @@ if __name__ == "__main__":
     # 方式2: 并行处理（快但可能触发限流）
     # max_workers=3: 同时处理3个用户（推荐）
     # max_workers=5: 同时处理5个用户（较快，但可能触发限流）
-    batch_fetch_tweets_parallel(test_users, max_pages=20, max_workers=3)
+    batch_fetch_tweets_parallel(test_users, max_pages=100, max_workers=3)
     
     logger.info("所有任务完成！")
