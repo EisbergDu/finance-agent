@@ -15,10 +15,10 @@ TOKEN = os.getenv("CRYPTO_NEWS_TOKEN", "mw7d3y7slvfvimpfrhbumewtxpxly1z9f3m6y9ko
 SAVE_DIR = Path(r"I:\finance-agent\news_data\data\crypto")
 
 def build_url(
-    tickers="DOGE",               # 狗狗币
+    tickers="BTC",               
     items=50,
     page=1,
-    date_range="11042024-11102024",  # 2024 大选周（ET）：11/04 ~ 11/10
+    date_range="01012024-10312025",  
     time_range="000000-235959",      # 全天（ET）
     search=None,
     source=None
@@ -61,7 +61,7 @@ def save_json(payload: dict, base_dir: Path, filename: str = None) -> Path:
     ensure_dir(base_dir)
     if not filename:
         ts = datetime.now().strftime("%Y%m%d-%H%M%S")
-        filename = f"doge_news_2024_election_week_{ts}.json"
+        filename = f"btc_news_2024_2025_{ts}_page1.json"
     fp = base_dir / filename
     with fp.open("w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
@@ -70,9 +70,9 @@ def save_json(payload: dict, base_dir: Path, filename: str = None) -> Path:
 if __name__ == "__main__":
     # 构建请求 URL（DOGE，2024 大选周，ET 全天）
     url = build_url(
-        tickers="DOGE",
+        tickers="BTC",
         items=100,
-        page=3,
+        page=200,
         # 可选过滤，按需启用：
         # search="ETF,Elon",
         # source="Reuters,CoinDesk"
